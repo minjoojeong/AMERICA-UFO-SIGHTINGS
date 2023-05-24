@@ -14,4 +14,6 @@ Graphs and maps created using seaborn and folium.
 Scikit learn to do decision tree, decided Weka might be better for visualization.
 
 # Analysis
-KMeans clustering from Weka mapped using Folium
+KMeans clustering using Weka, mapped using Folium
+Displays shapes and duration time. See notebook for details.
+![](https://i.imgur.com/2bZT3Sd.png)
